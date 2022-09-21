@@ -7,7 +7,7 @@
   />
 </a>
 
-<a href="https://app.daily.dev/arifwibawa"><img src="https://github.com/wibawaarif/wibawaarif/blob/main/devcard.svg" width="400" alt="Arif Wibawa's Dev Card"/></a>
+<a href="https://app.daily.dev/arifwibawa" _target="_blank"><img src="https://github.com/wibawaarif/wibawaarif/blob/main/devcard.svg" width="256" align="right" alt="Arif Wibawa's Dev Card"/></a>
 
 <!--
 **wibawaarif/wibawaarif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

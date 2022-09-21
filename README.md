@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/arifwibawa"><img src="https://api.daily.dev/devcards/7100758995334e288db9ec3236be2963.png?r=rhy" width="400" alt="Arif Wibawa's Dev Card"/></a>
+<a href="https://app.daily.dev/arifwibawa"><img src="https://github.com/wibawaarif/wibawaarif/blob/main/devcard.svg" width="400" alt="Arif Wibawa's Dev Card"/></a>
 
 <!--
 **wibawaarif/wibawaarif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

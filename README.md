@@ -1,6 +1,3 @@
-<a href="https://app.daily.dev/arifwibawa" target="_blank"><img src="https://github.com/wibawaarif/wibawaarif/blob/main/devcard.svg" width="256" align="right"      alt="Arif Wibawa's Dev Card"/></a>
-</div>
-
 <h1 align="center">Hi 👋, I'm Arif Wibawa</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
@@ -21,6 +18,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wibawaarif&show_icons=true&locale=en&layout=compact" alt="wibawaarif" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wibawaarif&show_icons=true&locale=en" alt="wibawaarif" /></p>
+
+<a href="https://app.daily.dev/arifwibawa" target="_blank"><img src="https://github.com/wibawaarif/wibawaarif/blob/main/devcard.svg" width="256" align="right"      alt="Arif Wibawa's Dev Card"/></a>
 
 
 <!--

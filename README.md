@@ -6,13 +6,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wibawaarif" alt="wibawaarif" /></a> </p>
 
 <h3 align="left">One of my learning journey</h3>
-<a href="https://codedamn.com/user/arifwibawa" target=”_blank”>Codedamn.com/arifwibawa</a>
+<a href="https://codedamn.com/user/arifwibawa" target="_blank" rel="noopener noreferrer">Codedamn.com/arifwibawa</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arifwibawaa" target=”_blank”><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arifwibawaa" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20026174" target=”_blank”><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20026174" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/arifwibawa" target=”_blank”><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arifwibawa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arifwibawaa"target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arifwibawaa" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20026174" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20026174" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/arifwibawa" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arifwibawa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
